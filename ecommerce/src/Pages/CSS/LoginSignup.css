@@ -1,0 +1,56 @@
+.loginsignup{
+    width: 100%;
+    min-height: 90vh;
+    background: url(C:\Users\yamuna\Desktop\ecom\ecommerce\src\Components\Assets\loginimage.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 100px;
+}
+.loginsignup-container{
+    width: 90%;
+    max-width: 550px;
+    margin: auto;
+    padding: 30px 40px;
+    box-sizing: border-box;
+}
+.loginsignup-container h1{
+    margin: 15px 0px;
+    color: white;
+}
+.loginsignup-fields{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    margin-top: 20px;
+}
+.loginsignup-fields input{
+    height: 60px;
+    width: 100%;
+    padding-left: 20px;
+    border: 1px solid #c9c9c9;
+    outline: none;
+    color: #060606;
+    font-size: 18px;
+    box-sizing: border-box;
+}
+.loginsignup-container button{
+    width: 100%;
+    height: 60px;
+    color: white;
+    background: #0f0303;
+    margin-top: 30px;
+    border: none;
+    font-size: 22px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.loginsignup-login{
+    margin-top: 20px;
+    color: #751ac4;
+    font-size: 16px;
+    font-weight: 500;
+}
+.loginsignup-login span{
+    color: #f6f4f4;
+    font-weight: 600;
+}
